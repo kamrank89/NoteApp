@@ -1,2 +1,3 @@
 # NoteApp
- Similar to Microsoft Note. The app was coded using React framework.
+ The App is Similar to Microsoft Note. 
+ The NoteApp was coded using React framework, HTML,CSS and node .
